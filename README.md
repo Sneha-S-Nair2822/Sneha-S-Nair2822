@@ -1,4 +1,4 @@
-![logo](https://github.com/Sneha-S-Nair2822/Sneha-S-Nair2822/blob/main/Banner%20Image.png)
+![logo](https://github.com/Sneha-S-Nair2822/Sneha-S-Nair2822/blob/main/Banner%20Img.png)
 <h1 align="center">Hi 👋, I'm Sneha S Nair</h1>
 <h3 align="center">3rd Year Information Technology Student | Aspiring Software Engineer</h3><br><br>
 <img align="right" alt="gif" width="400" src="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSOoyGEW9twy7s-WrjLOXoEj0ZLhCwDsOaH9YG9bwGlGDNtd47u">
