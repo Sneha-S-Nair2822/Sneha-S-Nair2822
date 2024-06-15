@@ -1,7 +1,7 @@
 ![logo](https://github.com/Sneha-S-Nair2822/Sneha-S-Nair2822/blob/main/Banner%20Img.png)
 <h1 align="center">Hi 👋, I'm Sneha S Nair</h1>
 <h3 align="center">3rd Year Information Technology Student | Aspiring Software Engineer</h3><br><br>
-<img align="right" alt="gif" width="500" src="https://media.tenor.com/S59bPkT0pqcAAAAC/programming.gif">
+<img align="right" alt="gif" width="400" src="https://media.tenor.com/S59bPkT0pqcAAAAC/programming.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sneha-s-nair2822&label=Profile%20views&color=0e75b6&style=flat" alt="sneha-s-nair2822" /> </p>
 
