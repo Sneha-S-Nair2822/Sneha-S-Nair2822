@@ -1,4 +1,4 @@
-![logo](https://github.com/Sneha-S-Nair2822/Sneha-S-Nair2822/blob/main/Banner%20Img.png)
+![logo](https://github.com/Sneha-S-Nair2822/Sneha-S-Nair2822/blob/main/Banner.png)
 <h1 align="center">Hi 👋, I'm Sneha S Nair</h1>
 <h3 align="center">3rd Year Information Technology Student | Aspiring Software Engineer</h3><br><br>
 <img align="right" alt="gif" width="400" src="https://media.tenor.com/S59bPkT0pqcAAAAC/programming.gif">
